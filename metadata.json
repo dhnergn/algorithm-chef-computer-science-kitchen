@@ -1,0 +1,6 @@
+{
+  "name": "Algorithm Chef: Computer Science Kitchen",
+  "description": "An educational coding game that teaches foundational computer science and algorithmic thinking across all age bands through kitchen challenges and visual block programming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
